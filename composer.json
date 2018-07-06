@@ -1,5 +1,5 @@
 {
-    "name": "frozennode/xssinput",
+    "name": "pwelling/xssinput",
     "description": "A simple extension of the Laravel Input facade that mimics CodeIgniter's xss filtering",
     "keywords": ["laravel", "xss"],
     "license": "MIT",
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0",
+        "php": ">=7.1.0",
         "illuminate/support": "^5.5"
     },
     "autoload": {
